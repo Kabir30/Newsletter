@@ -82,6 +82,8 @@ a{
 }
 .btn-submit:hover, .btn-sign:hover{
 	background: #2bab0d;
+	cursor:pointer;
+	
 }
 
 /*Contat area start here*/
@@ -106,8 +108,8 @@ textarea{
 }
 .btn-submit{
 	margin-left: -645px;
-    padding: 20px;
-    width: 15%
+        padding: 20px;
+        width: 15%
 }
 /*Footer area*/
 .footer{
